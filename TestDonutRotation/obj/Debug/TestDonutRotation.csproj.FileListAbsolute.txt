@@ -1,0 +1,8 @@
+c:\users\james.wheeler\documents\visual studio 2013\Projects\TestDonutRotation\TestDonutRotation\bin\Debug\TestDonutRotation.exe.config
+c:\users\james.wheeler\documents\visual studio 2013\Projects\TestDonutRotation\TestDonutRotation\bin\Debug\TestDonutRotation.exe
+c:\users\james.wheeler\documents\visual studio 2013\Projects\TestDonutRotation\TestDonutRotation\bin\Debug\TestDonutRotation.pdb
+c:\users\james.wheeler\documents\visual studio 2013\Projects\TestDonutRotation\TestDonutRotation\obj\Debug\TestDonutRotation.csprojResolveAssemblyReference.cache
+c:\users\james.wheeler\documents\visual studio 2013\Projects\TestDonutRotation\TestDonutRotation\obj\Debug\TestDonutRotation.exe
+c:\users\james.wheeler\documents\visual studio 2013\Projects\TestDonutRotation\TestDonutRotation\obj\Debug\TestDonutRotation.pdb
+C:\Users\james.wheeler\Documents\Visual Studio 2013\Projects\TestDonutRotation\TestDonutRotation\bin\Debug\Donuts.dll
+C:\Users\james.wheeler\Documents\Visual Studio 2013\Projects\TestDonutRotation\TestDonutRotation\bin\Debug\Donuts.pdb

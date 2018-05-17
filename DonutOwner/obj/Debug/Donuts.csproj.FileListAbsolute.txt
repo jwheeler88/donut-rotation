@@ -1,0 +1,5 @@
+C:\Users\james.wheeler\Documents\Visual Studio 2013\Projects\TestDonutRotation\DonutOwner\bin\Debug\Donuts.dll
+C:\Users\james.wheeler\Documents\Visual Studio 2013\Projects\TestDonutRotation\DonutOwner\bin\Debug\Donuts.pdb
+C:\Users\james.wheeler\Documents\Visual Studio 2013\Projects\TestDonutRotation\DonutOwner\obj\Debug\Donuts.dll
+C:\Users\james.wheeler\Documents\Visual Studio 2013\Projects\TestDonutRotation\DonutOwner\obj\Debug\Donuts.pdb
+C:\Users\james.wheeler\Documents\Visual Studio 2013\Projects\TestDonutRotation\DonutOwner\obj\Debug\Donuts.csprojResolveAssemblyReference.cache
